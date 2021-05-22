@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{Automovil.java[Automovil" modifiers="1025" timestamp="1621639362563"/>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{AutomovilElectricidad.java[AutomovilElectricidad" modifiers="1" timestamp="1621635971209"/>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{AutomovilGasolina.java[AutomovilGasolina" modifiers="1" timestamp="1621636048161"/>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{Scooter.java[Scooter" modifiers="1025" timestamp="1621637623111"/>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{ScooterGasolina.java[ScooterGasolina" modifiers="1" timestamp="1621636648082"/>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{ScooterElectricidad.java[ScooterElectricidad" modifiers="1" timestamp="1621636284591"/>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{FabricaVehiculo.java[FabricaVehiculo" modifiers="513" timestamp="1621636411556"/>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{FabricaVehiculoElectricidad.java[FabricaVehiculoElectricidad" modifiers="1" timestamp="1621636551297"/>
+    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{FabricaVehiculoGasolina.java[FabricaVehiculoGasolina" modifiers="1" timestamp="1621636620354"/>
+</typeInfoHistroy>

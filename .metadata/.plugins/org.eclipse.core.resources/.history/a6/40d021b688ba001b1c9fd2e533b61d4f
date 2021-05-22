@@ -1,0 +1,15 @@
+package fabrica.abstracta;
+
+public class Main {
+
+	public static void main(String[] args) {
+		FabricaVehiculo fabrica = new FabricaVehiculoElectricidad();
+		
+		for(int i = 0; i < 10; i ++) {
+			fabrica.creaAutomovil("Ford 100", "Verde", i + 7, 5.35 + i).mostrarCaracteristicas();
+		}
+		
+		
+	}
+
+}

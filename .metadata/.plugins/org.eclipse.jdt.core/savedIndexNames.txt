@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/federico/Desarrollo/patrones-diseño/.metadata/.plugins/org.eclipse.jdt.core
+786636216.index
+1997322133.index

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="fabrica.abstracta.Automovil"/>
+    <fullyQualifiedTypeName name="fabrica.abstracta.FabricaVehiculo"/>
+    <fullyQualifiedTypeName name="fabrica.abstracta.FabricaVehiculoElectricidad"/>
+    <fullyQualifiedTypeName name="fabrica.abstracta.FabricaVehiculoGasolina"/>
+    <fullyQualifiedTypeName name="fabrica.abstracta.ScooterElectricidad"/>
+</qualifiedTypeNameHistroy>

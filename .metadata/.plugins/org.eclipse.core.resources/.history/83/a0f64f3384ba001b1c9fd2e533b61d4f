@@ -1,0 +1,10 @@
+package fabrica.abstracta;
+
+public class ScooterElectricidad extends Scooter {
+
+	@Override
+	public void mostrarCaracteristicas() {
+		
+	}
+
+}
