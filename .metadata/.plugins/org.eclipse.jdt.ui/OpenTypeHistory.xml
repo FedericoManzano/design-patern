@@ -9,11 +9,18 @@
     <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{FabricaVehiculo.java[FabricaVehiculo" modifiers="513" timestamp="1621636411556"/>
     <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{FabricaVehiculoElectricidad.java[FabricaVehiculoElectricidad" modifiers="1" timestamp="1621636551297"/>
     <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{FabricaVehiculoGasolina.java[FabricaVehiculoGasolina" modifiers="1" timestamp="1621636620354"/>
-    <typeInfo handle="=patron-builder/src&lt;builder{Documentacion.java[Documentacion" modifiers="1025" timestamp="1621794518974"/>
     <typeInfo handle="=patron-builder/src&lt;builder{DocumentacionHtml.java[DocumentacionHtml" modifiers="1" timestamp="1621794613183"/>
     <typeInfo handle="=patron-builder/src&lt;builder{DocumentacionPdf.java[DocumentacionPdf" modifiers="1" timestamp="1621794703695"/>
     <typeInfo handle="=patron-builder/src&lt;builder{ConstructorDocumentacionVehiculo.java[ConstructorDocumentacionVehiculo" modifiers="1025" timestamp="1621794806587"/>
-    <typeInfo handle="=patron-builder/src&lt;builder{ConstructorDocumentacionVehiculoHtml.java[ConstructorDocumentacionVehiculoHtml" modifiers="1" timestamp="1621794828307"/>
+    <typeInfo handle="=patron-builder/src&lt;builder{ConstructorDocumentacionVehiculoHtml.java[ConstructorDocumentacionVehiculoHtml" modifiers="1" timestamp="1621796917010"/>
     <typeInfo handle="=patron-builder/src&lt;builder{ConstructorDocumentacionVehiculoPdf.java[ConstructorDocumentacionVehiculoPdf" modifiers="1" timestamp="1621795130269"/>
-    <typeInfo handle="=patron-builder/src&lt;builder{Vendedor.java[Vendedor" modifiers="1" timestamp="1621795247406"/>
+    <typeInfo handle="=patron-builder/src&lt;builder{Vendedor.java[Vendedor" modifiers="1" timestamp="1621796288936"/>
+    <typeInfo handle="=patron-prototype/src&lt;patron.prototype{Documento.java[Documento" modifiers="1025" timestamp="1621801582817"/>
+    <typeInfo handle="=patron-prototype/src&lt;patron.prototype{CertificadoCesion.java[CertificadoCesion" modifiers="1" timestamp="1621801047867"/>
+    <typeInfo handle="=patron-prototype/src&lt;patron.prototype{OrdenDePedido.java[OrdenDePedido" modifiers="1" timestamp="1621800934628"/>
+    <typeInfo handle="=patron-builder/src&lt;builder{Documentacion.java[Documentacion" modifiers="1025" timestamp="1621794518974"/>
+    <typeInfo handle="=patron-prototype/src&lt;patron.prototype{DocumentacionEnBlanco.java[DocumentacionEnBlanco" modifiers="1" timestamp="1621801264601"/>
+    <typeInfo handle="=patron-prototype/src&lt;patron.prototype{SolicitudMatriculacion.java[SolicitudMatriculacion" modifiers="1" timestamp="1621800987593"/>
+    <typeInfo handle="=patron-prototype/src&lt;patron.prototype{DocumentacionCliente.java[DocumentacionCliente" modifiers="1" timestamp="1621801545621"/>
+    <typeInfo handle="=patron-prototype/src&lt;patron.prototype{Documentacion.java[Documentacion" modifiers="1025" timestamp="1621801093032"/>
 </typeInfoHistroy>
