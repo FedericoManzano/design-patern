@@ -5,4 +5,10 @@
     <fullyQualifiedTypeName name="fabrica.abstracta.FabricaVehiculoElectricidad"/>
     <fullyQualifiedTypeName name="fabrica.abstracta.FabricaVehiculoGasolina"/>
     <fullyQualifiedTypeName name="fabrica.abstracta.ScooterElectricidad"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="builder.Documentacion"/>
+    <fullyQualifiedTypeName name="builder.ConstructorDocumentacionVehiculo"/>
+    <fullyQualifiedTypeName name="builder.ConstructorDocumentacionVehiculoHtml"/>
+    <fullyQualifiedTypeName name="builder.Vendedor"/>
 </qualifiedTypeNameHistroy>
