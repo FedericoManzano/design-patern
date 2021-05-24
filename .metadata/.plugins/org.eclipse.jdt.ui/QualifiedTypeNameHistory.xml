@@ -11,7 +11,22 @@
     <fullyQualifiedTypeName name="builder.Vendedor"/>
     <fullyQualifiedTypeName name="patron.prototype.Documento"/>
     <fullyQualifiedTypeName name="patron.prototype.Documentacion"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="patron.prototype.DocumentacionEnBlanco"/>
+    <fullyQualifiedTypeName name="patron.prototype.SolicitudMatriculacion"/>
+    <fullyQualifiedTypeName name="patron.prototype.OrdenDePedido"/>
+    <fullyQualifiedTypeName name="patron.prototype.CertificadoCesion"/>
+    <fullyQualifiedTypeName name="patron.prototype.DocumentacionCliente"/>
+    <fullyQualifiedTypeName name="patron.prototype.Armado"/>
+    <fullyQualifiedTypeName name="patron.prototype.Rueda"/>
+    <fullyQualifiedTypeName name="patron.prototype.Auto"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="patron.prototype.Ensamblaje"/>
+    <fullyQualifiedTypeName name="patron.prototype.Carroceria"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="patron.prototype.AutoParte"/>
+    <fullyQualifiedTypeName name="patron.prototype.Puerta"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="patron.prototype.Vehiculo"/>
 </qualifiedTypeNameHistroy>

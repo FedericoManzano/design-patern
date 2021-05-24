@@ -18,4 +18,14 @@ public class DocumentacionCliente extends Documentacion {
 			documentos.add(copiaDocumento);
 		}
 	}
+	
+	public void visualiza() {
+		for (Documento documento: documentos)
+			documento.visualiza();
+	}
+	
+	public void imprime() {
+		for (Documento documento: documentos)
+			documento.imprime();
+	}
 }
