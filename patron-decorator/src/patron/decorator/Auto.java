@@ -1,8 +1,8 @@
 package patron.decorator;
 
-public class Ford100 extends Vehiculo {
+public class Auto extends Vehiculo {
 
-	public Ford100(int cantidadPuertas, int velocidad, String modelo, String matricula) {
+	public Auto(int cantidadPuertas, int velocidad, String modelo, String matricula) {
 		super(cantidadPuertas, velocidad, modelo, matricula);
 	}
 

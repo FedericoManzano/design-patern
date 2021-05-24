@@ -2,7 +2,6 @@ INDEX VERSION 1.131+/home/federico/Desarrollo/patrones-diseño/.metadata/.plugin
 19835774.index
 786636216.index
 2342690940.index
-463994763.index
 3479476034.index
 1997322133.index
 1139614138.index
