@@ -1,6 +1,6 @@
 package patron.decorator;
 
-public abstract class VehiculoDecorator extends Vehiculo {
+public abstract class VehiculoDecorator extends VehiculoAdapter {
 
 	protected Vehiculo vehiculo;
 	
@@ -8,6 +8,4 @@ public abstract class VehiculoDecorator extends Vehiculo {
 		super(vehiculo.cantidadPuertas, vehiculo.velocidad, vehiculo.modelo, vehiculo.matricula);
 		this.vehiculo = vehiculo;
 	}
-
-	
 }

@@ -12,7 +12,7 @@
   </interface>  
   <class id="2" language="java" name="patron.bridge.FormAppletImpl" project="patron-bridge" 
     file="/patron-bridge/src/patron/bridge/FormAppletImpl.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="117" y="261"/>    
+    <position height="-1" width="-1" x="191" y="249"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -21,7 +21,7 @@
   </class>  
   <class id="3" language="java" name="patron.bridge.FormHtmlImpl" project="patron-bridge" 
     file="/patron-bridge/src/patron/bridge/FormHtmlImpl.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="323" y="257"/>    
+    <position height="-1" width="-1" x="380" y="248"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="patron.bridge.FormularioMatriculacion" project="patron-bridge" 
     file="/patron-bridge/src/patron/bridge/FormularioMatriculacion.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="724" y="94"/>    
+    <position height="-1" width="-1" x="737" y="90"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="patron.bridge.FormularioMatriculacionEspaña" project="patron-bridge" 
     file="/patron-bridge/src/patron/bridge/FormularioMatriculacionEspaña.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="608" y="273"/>    
+    <position height="-1" width="-1" x="615" y="273"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,7 +48,7 @@
   </class>  
   <class id="6" language="java" name="patron.bridge.FormularioMatriculacionPortugal" project="patron-bridge" 
     file="/patron-bridge/src/patron/bridge/FormularioMatriculacionPortugal.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="910" y="280"/>    
+    <position height="-1" width="-1" x="890" y="271"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      

@@ -6,12 +6,6 @@ public class Turbo extends VehiculoDecorator {
 		super(vehiculo);
 	}
 
-
-	@Override
-	public int getCantidadPuertas() {
-		return super.vehiculo.getCantidadPuertas();
-	}
-
 	@Override
 	public int getVelocidad() {
 		return super.vehiculo.getVelocidad() + 30;
@@ -20,11 +14,6 @@ public class Turbo extends VehiculoDecorator {
 	@Override
 	public String getModelo() {
 		return super.vehiculo.getModelo() + "(+ Turbo 30)";
-	}
-
-	@Override
-	public String getMatricula() {
-		return super.vehiculo.getMatricula();
 	}
 
 }
