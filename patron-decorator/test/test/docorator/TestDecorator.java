@@ -17,7 +17,6 @@ class TestDecorator {
 	
 	@BeforeAll
 	public static void start() {
-		System.out.println("Pasa");
 		vehiculo = new Auto(4,100,"Ford 100","BBC 554");
 	}
 	
@@ -56,5 +55,6 @@ class TestDecorator {
 		obj += "Puertas: "+ vehiculo.getCantidadPuertas() + "\n";
 		assertTrue(vehiculo.toString().equals(obj));
 	}
+	
 	
 }

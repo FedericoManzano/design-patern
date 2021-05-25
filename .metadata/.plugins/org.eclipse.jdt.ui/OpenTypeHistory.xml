@@ -23,4 +23,20 @@
     <typeInfo handle="=patron-prototype/src&lt;patron.prototype{SolicitudMatriculacion.java[SolicitudMatriculacion" modifiers="1" timestamp="1621800987593"/>
     <typeInfo handle="=patron-prototype/src&lt;patron.prototype{DocumentacionCliente.java[DocumentacionCliente" modifiers="1" timestamp="1621810179188"/>
     <typeInfo handle="=patron-prototype/src&lt;patron.prototype{Documentacion.java[Documentacion" modifiers="1025" timestamp="1621801093032"/>
+    <typeInfo handle="=patron-bridge/src&lt;patron.bridge{FormularioImpl.java[FormularioImpl" modifiers="513" timestamp="1621856288586"/>
+    <typeInfo handle="=patron-bridge/src&lt;patron.bridge{FormAppletImpl.java[FormAppletImpl" modifiers="1" timestamp="1621856502043"/>
+    <typeInfo handle="=patron-bridge/src&lt;patron.bridge{FormHtmlImpl.java[FormHtmlImpl" modifiers="1" timestamp="1621856407017"/>
+    <typeInfo handle="=patron-bridge/src&lt;patron.bridge{FormularioMatriculacion.java[FormularioMatriculacion" modifiers="1025" timestamp="1621856718000"/>
+    <typeInfo handle="=patron-bridge/src&lt;patron.bridge{FormularioMatriculacionEspaña.java[FormularioMatriculacionEspaña" modifiers="1" timestamp="1621856805545"/>
+    <typeInfo handle="=patron-bridge/src&lt;patron.bridge{FormularioMatriculacionPortugal.java[FormularioMatriculacionPortugal" modifiers="1" timestamp="1621856867682"/>
+    <typeInfo handle="=patron-decorator/src&lt;patron.decorator{Vehiculo.java[Vehiculo" modifiers="1025" timestamp="1621862565574"/>
+    <typeInfo handle="=patron-decorator/src&lt;patron.decorator{VehiculoDecorator.java[VehiculoDecorator" modifiers="1025" timestamp="1621870540383"/>
+    <typeInfo handle="=patron-decorator/src&lt;patron.decorator{Estereo.java[Estereo" modifiers="1" timestamp="1621869855695"/>
+    <typeInfo handle="=patron-decorator/src&lt;patron.decorator{AireAcondicionado.java[AireAcondicionado" modifiers="1" timestamp="1621869842167"/>
+    <typeInfo handle="=patron-decorator/src&lt;patron.decorator{Turbo.java[Turbo" modifiers="1" timestamp="1621869873511"/>
+    <typeInfo handle="=patron-decorator/src&lt;patron.decorator{VehiculoAdapter.java[VehiculoAdapter" modifiers="1" timestamp="1621869775871"/>
+    <typeInfo handle="=patron-adapter/src&lt;patron.adapter{Personable.java[Personable" modifiers="513" timestamp="1621871058768"/>
+    <typeInfo handle="=patron-adapter/src&lt;patron.adapter{PersonaAdapter.java[PersonaAdapter" modifiers="1" timestamp="1621871066368"/>
+    <typeInfo handle="=patron-adapter/src&lt;patron.adapter{Trabajador.java[Trabajador" modifiers="1" timestamp="1621870983660"/>
+    <typeInfo handle="=patron-adapter/src&lt;patron.adapter{Estudiante.java[Estudiante" modifiers="1" timestamp="1621871131012"/>
 </typeInfoHistroy>
