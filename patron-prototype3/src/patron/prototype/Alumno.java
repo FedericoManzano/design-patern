@@ -1,4 +1,4 @@
-package patron.protype;
+package patron.prototype;
 
 public class Alumno extends PersonalUniversitario implements Cloneable {
 

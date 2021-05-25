@@ -1,4 +1,4 @@
-package patron.protype;
+package patron.prototype;
 
 import java.util.List;
 
