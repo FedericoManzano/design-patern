@@ -6,7 +6,7 @@ import java.util.Optional;
 public class DaoUsuario implements Facade<Usuario, Long>{
 
 	
-	private Repositorio<Usuario, Long> repositorio = new DaoRepositorio();
+	private Repositorio<Usuario, Long> repositorio = new DaoRepositorio<Usuario,Long>();
 	
 	
 	@Override

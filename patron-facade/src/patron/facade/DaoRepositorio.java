@@ -11,58 +11,58 @@ import java.util.Optional;
  * @author federico
  *
  */
-public class DaoRepositorio implements Repositorio<Usuario, Long>{
+public class DaoRepositorio<T,S> implements Repositorio<T, S>{
 
 	@Override
-	public void insertar(Usuario obj) {
+	public void insertar(T obj) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public Optional<Usuario> buscarPorId(Long id) {
+	public Optional<T> buscarPorId(S id) {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
-	public Usuario buscar(Long obj) {
+	public T buscar(S obj) {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
-	public void borrar(Usuario obj) {
+	public void borrar(T obj) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public List<Usuario> listarTodos() {
+	public List<T> listarTodos() {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
-	public List<Usuario> filtro(Long campo) {
+	public List<T> filtro(S campo) {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
 	@Override
-	public void borrarTodos(List<Usuario> listado) {
+	public void borrarTodos(List<T> listado) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public void borrarPorCampo(Long campo) {
+	public void borrarPorCampo(S campo) {
 		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public Usuario actualizar(Usuario obj) {
+	public T actualizar(T obj) {
 		// TODO Auto-generated method stub
 		return null;
 	}

@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-    <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{Automovil.java[Automovil" modifiers="1025" timestamp="1621639362563"/>
     <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{AutomovilElectricidad.java[AutomovilElectricidad" modifiers="1" timestamp="1621635971209"/>
     <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{AutomovilGasolina.java[AutomovilGasolina" modifiers="1" timestamp="1621636048161"/>
     <typeInfo handle="=patron-fabric-abstracta/src&lt;fabrica.abstracta{Scooter.java[Scooter" modifiers="1025" timestamp="1621637623111"/>
@@ -53,4 +52,12 @@
     <typeInfo handle="=patron-observer/src&lt;patron.observer{Emisor.java[Emisor" modifiers="1" timestamp="1621960358200"/>
     <typeInfo handle="=patron-observer/src&lt;patron.observer{Mensaje.java[Mensaje" modifiers="1" timestamp="1621960420216"/>
     <typeInfo handle="=patron-observer/src&lt;patron.observer{Receptor.java[Receptor" modifiers="1" timestamp="1621960527816"/>
+    <typeInfo handle="=patron-facade/src&lt;patron.facade{Repositorio.java[Repositorio" modifiers="513" timestamp="1621964614467"/>
+    <typeInfo handle="=patron-facade/src&lt;patron.facade{DaoRepositorio.java[DaoRepositorio" modifiers="1" timestamp="1621965081475"/>
+    <typeInfo handle="=patron-facade/src&lt;patron.facade{Facade.java[Facade" modifiers="513" timestamp="1621963873520"/>
+    <typeInfo handle="=patron-bridge/src&lt;patron.bridge{Usuario.java[Usuario" modifiers="1" timestamp="1621856942114"/>
+    <typeInfo handle="=patron-facade/src&lt;patron.facade{Usuario.java[Usuario" modifiers="1" timestamp="1621963626601"/>
+    <typeInfo handle="=patron-facade/src&lt;patron.facade{DaoUsuario.java[DaoUsuario" modifiers="1" timestamp="1621965101663"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Posion.java[Posion" modifiers="1" timestamp="1621970168264"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Energia.java[Energia" modifiers="1" timestamp="1621970460683"/>
 </typeInfoHistroy>

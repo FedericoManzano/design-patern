@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="patron.prototype.DocumentacionEnBlanco"/>
-    <fullyQualifiedTypeName name="patron.prototype.SolicitudMatriculacion"/>
-    <fullyQualifiedTypeName name="patron.prototype.OrdenDePedido"/>
-    <fullyQualifiedTypeName name="patron.prototype.CertificadoCesion"/>
     <fullyQualifiedTypeName name="patron.prototype.DocumentacionCliente"/>
     <fullyQualifiedTypeName name="patron.prototype.Armado"/>
     <fullyQualifiedTypeName name="patron.prototype.Rueda"/>
@@ -36,7 +32,6 @@
     <fullyQualifiedTypeName name="patron.adapter.Personable"/>
     <fullyQualifiedTypeName name="patron.adapter.PersonaAdapter"/>
     <fullyQualifiedTypeName name="patron.decorator.Retiraritem"/>
-    <fullyQualifiedTypeName name="patron.decorator.PersonajeDecorator"/>
     <fullyQualifiedTypeName name="patron.decorator.Personaje"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
     <fullyQualifiedTypeName name="patron.decorator.Escudo"/>
@@ -55,9 +50,14 @@
     <fullyQualifiedTypeName name="patron.protype.PersonalUniversitario"/>
     <fullyQualifiedTypeName name="patron.observer.Subjecto"/>
     <fullyQualifiedTypeName name="patron.observer.Mensaje"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="patron.observer.Observer"/>
     <fullyQualifiedTypeName name="patron.observer.Emisor"/>
     <fullyQualifiedTypeName name="patron.observer.Receptor"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="patron.facade.DaoRepositorio"/>
+    <fullyQualifiedTypeName name="patron.facade.Repositorio"/>
+    <fullyQualifiedTypeName name="patron.decorator.Posion"/>
+    <fullyQualifiedTypeName name="patron.decorator.PersonajeDecorator"/>
 </qualifiedTypeNameHistroy>
