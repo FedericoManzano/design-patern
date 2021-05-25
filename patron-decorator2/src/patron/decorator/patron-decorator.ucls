@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="patron.decorator.Personaje" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/Personaje.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="378" y="99"/>    
+    <position height="367" width="166" x="313" y="37"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="patron.decorator.Vikingo" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/Vikingo.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="427" y="665"/>    
+    <position height="187" width="152" x="530" y="707"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -21,7 +21,7 @@
   </class>  
   <class id="3" language="java" name="patron.decorator.PersonajeAdapter" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/PersonajeAdapter.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="151" y="403"/>    
+    <position height="223" width="204" x="621" y="444"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="patron.decorator.PersonajeDecorator" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/PersonajeDecorator.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="710" y="384"/>    
+    <position height="223" width="178" x="313" y="444"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -39,7 +39,7 @@
   </class>  
   <class id="5" language="java" name="patron.decorator.Escudo" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/Escudo.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="597" y="606"/>    
+    <position height="97" width="117" x="373" y="707"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,7 +48,7 @@
   </class>  
   <class id="6" language="java" name="patron.decorator.Espada" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/Espada.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="757" y="621"/>    
+    <position height="97" width="118" x="215" y="707"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -57,7 +57,7 @@
   </class>  
   <class id="7" language="java" name="patron.decorator.Vida" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/Vida.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="914" y="604"/>    
+    <position height="97" width="132" x="43" y="707"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -66,7 +66,7 @@
   </class>  
   <class id="8" language="java" name="patron.decorator.Escudero" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/Escudero.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="209" y="666"/>    
+    <position height="187" width="163" x="919" y="707"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -75,7 +75,7 @@
   </class>  
   <class id="9" language="java" name="patron.decorator.Arquero" project="patron-decorator2" 
     file="/patron-decorator2/src/patron/decorator/Arquero.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="3" y="660"/>    
+    <position height="187" width="157" x="722" y="707"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      

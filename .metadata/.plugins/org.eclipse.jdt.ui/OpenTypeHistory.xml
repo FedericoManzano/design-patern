@@ -39,4 +39,13 @@
     <typeInfo handle="=patron-adapter/src&lt;patron.adapter{PersonaAdapter.java[PersonaAdapter" modifiers="1" timestamp="1621871066368"/>
     <typeInfo handle="=patron-adapter/src&lt;patron.adapter{Trabajador.java[Trabajador" modifiers="1" timestamp="1621870983660"/>
     <typeInfo handle="=patron-adapter/src&lt;patron.adapter{Estudiante.java[Estudiante" modifiers="1" timestamp="1621871131012"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Personaje.java[Personaje" modifiers="1025" timestamp="1621903857265"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Vikingo.java[Vikingo" modifiers="1" timestamp="1621901154904"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{PersonajeAdapter.java[PersonajeAdapter" modifiers="1" timestamp="1621895409052"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{PersonajeDecorator.java[PersonajeDecorator" modifiers="1025" timestamp="1621900676536"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Escudo.java[Escudo" modifiers="1" timestamp="1621900687636"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Espada.java[Espada" modifiers="1" timestamp="1621900721092"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Vida.java[Vida" modifiers="1" timestamp="1621900766953"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Escudero.java[Escudero" modifiers="1" timestamp="1621903031446"/>
+    <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Arquero.java[Arquero" modifiers="1" timestamp="1621904486621"/>
 </typeInfoHistroy>

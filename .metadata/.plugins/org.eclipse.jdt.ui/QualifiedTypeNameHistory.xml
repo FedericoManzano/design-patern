@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="fabrica.abstracta.Automovil"/>
-    <fullyQualifiedTypeName name="fabrica.abstracta.FabricaVehiculo"/>
-    <fullyQualifiedTypeName name="fabrica.abstracta.FabricaVehiculoElectricidad"/>
-    <fullyQualifiedTypeName name="fabrica.abstracta.FabricaVehiculoGasolina"/>
-    <fullyQualifiedTypeName name="fabrica.abstracta.ScooterElectricidad"/>
-    <fullyQualifiedTypeName name="builder.Documentacion"/>
     <fullyQualifiedTypeName name="builder.ConstructorDocumentacionVehiculo"/>
     <fullyQualifiedTypeName name="builder.ConstructorDocumentacionVehiculoHtml"/>
     <fullyQualifiedTypeName name="builder.Vendedor"/>
@@ -19,8 +13,6 @@
     <fullyQualifiedTypeName name="patron.prototype.Armado"/>
     <fullyQualifiedTypeName name="patron.prototype.Rueda"/>
     <fullyQualifiedTypeName name="patron.prototype.Auto"/>
-    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
-    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
     <fullyQualifiedTypeName name="patron.prototype.Ensamblaje"/>
     <fullyQualifiedTypeName name="patron.prototype.Carroceria"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
@@ -32,15 +24,12 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="patron.bridge.FormularioMatriculacion"/>
     <fullyQualifiedTypeName name="patron.composite.Empresa"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="patron.composite.EmpresaSinFilial"/>
     <fullyQualifiedTypeName name="patron.composite.EmpresaMadre"/>
     <fullyQualifiedTypeName name="patron.decorator.Ford100"/>
     <fullyQualifiedTypeName name="patron.decorator.vehiculoAdapter"/>
     <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="patron.decorator.VehiculoDecorator"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
     <fullyQualifiedTypeName name="patron.decorator.Auto"/>
     <fullyQualifiedTypeName name="patron.decorator.Estereo"/>
     <fullyQualifiedTypeName name="patron.decorator.Turbo"/>
@@ -51,4 +40,24 @@
     <fullyQualifiedTypeName name="patron.decorator.VehiculoAdapter"/>
     <fullyQualifiedTypeName name="patron.adapter.Personable"/>
     <fullyQualifiedTypeName name="patron.adapter.PersonaAdapter"/>
+    <fullyQualifiedTypeName name="patron.decorator.Retiraritem"/>
+    <fullyQualifiedTypeName name="patron.decorator.PersonajeDecorator"/>
+    <fullyQualifiedTypeName name="patron.decorator.Personaje"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeAll"/>
+    <fullyQualifiedTypeName name="patron.decorator.Escudo"/>
+    <fullyQualifiedTypeName name="patron.decorator.Espada"/>
+    <fullyQualifiedTypeName name="patron.decorator.Escudero"/>
+    <fullyQualifiedTypeName name="patron.decorator.Vikingo"/>
+    <fullyQualifiedTypeName name="patron.decorator.Vida"/>
+    <fullyQualifiedTypeName name="patron.decorator.PersonajeAdapter"/>
+    <fullyQualifiedTypeName name="patron.decorator.Arquero"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="patron.protype.Curso"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.Cloneable"/>
+    <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
+    <fullyQualifiedTypeName name="patron.protype.CursoVacio"/>
+    <fullyQualifiedTypeName name="patron.protype.Docente"/>
+    <fullyQualifiedTypeName name="patron.protype.CursoLLeno"/>
+    <fullyQualifiedTypeName name="patron.protype.PersonalUniversitario"/>
 </qualifiedTypeNameHistroy>
