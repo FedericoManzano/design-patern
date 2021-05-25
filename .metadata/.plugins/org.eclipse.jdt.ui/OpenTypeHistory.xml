@@ -48,4 +48,9 @@
     <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Vida.java[Vida" modifiers="1" timestamp="1621900766953"/>
     <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Escudero.java[Escudero" modifiers="1" timestamp="1621903031446"/>
     <typeInfo handle="=patron-decorator2/src&lt;patron.decorator{Arquero.java[Arquero" modifiers="1" timestamp="1621904486621"/>
+    <typeInfo handle="=patron-observer/src&lt;patron.observer{Observer.java[Observer" modifiers="513" timestamp="1621957321802"/>
+    <typeInfo handle="=patron-observer/src&lt;patron.observer{Sujeto.java[Sujeto" modifiers="513" timestamp="1621959732929"/>
+    <typeInfo handle="=patron-observer/src&lt;patron.observer{Emisor.java[Emisor" modifiers="1" timestamp="1621960358200"/>
+    <typeInfo handle="=patron-observer/src&lt;patron.observer{Mensaje.java[Mensaje" modifiers="1" timestamp="1621960420216"/>
+    <typeInfo handle="=patron-observer/src&lt;patron.observer{Receptor.java[Receptor" modifiers="1" timestamp="1621960527816"/>
 </typeInfoHistroy>

@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="builder.ConstructorDocumentacionVehiculo"/>
-    <fullyQualifiedTypeName name="builder.ConstructorDocumentacionVehiculoHtml"/>
-    <fullyQualifiedTypeName name="builder.Vendedor"/>
-    <fullyQualifiedTypeName name="patron.prototype.Documento"/>
-    <fullyQualifiedTypeName name="patron.prototype.Documentacion"/>
     <fullyQualifiedTypeName name="patron.prototype.DocumentacionEnBlanco"/>
     <fullyQualifiedTypeName name="patron.prototype.SolicitudMatriculacion"/>
     <fullyQualifiedTypeName name="patron.prototype.OrdenDePedido"/>
@@ -51,13 +46,18 @@
     <fullyQualifiedTypeName name="patron.decorator.Vida"/>
     <fullyQualifiedTypeName name="patron.decorator.PersonajeAdapter"/>
     <fullyQualifiedTypeName name="patron.decorator.Arquero"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="patron.protype.Curso"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.lang.Cloneable"/>
     <fullyQualifiedTypeName name="java.lang.CloneNotSupportedException"/>
     <fullyQualifiedTypeName name="patron.protype.CursoVacio"/>
     <fullyQualifiedTypeName name="patron.protype.Docente"/>
     <fullyQualifiedTypeName name="patron.protype.CursoLLeno"/>
     <fullyQualifiedTypeName name="patron.protype.PersonalUniversitario"/>
+    <fullyQualifiedTypeName name="patron.observer.Subjecto"/>
+    <fullyQualifiedTypeName name="patron.observer.Mensaje"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="patron.observer.Observer"/>
+    <fullyQualifiedTypeName name="patron.observer.Emisor"/>
+    <fullyQualifiedTypeName name="patron.observer.Receptor"/>
 </qualifiedTypeNameHistroy>
