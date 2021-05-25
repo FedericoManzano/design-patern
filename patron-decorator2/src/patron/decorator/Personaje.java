@@ -28,9 +28,11 @@ public abstract class Personaje {
 		if(this == agresor)
 			return;
 		if((this.getSalud() + this.getDefensa()) >= agresor.getAtaque()) {
-			int salud = this.getSalud();
-			salud -= (agresor.getAtaque() - this.getDefensa());
-			this.setSalud(salud);
+			if(this.getDefensa() <= agresor.getAtaque()) {
+				int salud = this.getSalud();
+				salud -= (agresor.getAtaque() - this.getDefensa());
+				this.setSalud(salud);
+			}
 		}
 	}
 	
